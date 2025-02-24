@@ -1,1 +1,1 @@
-This repository contains all my Work from in my first semester. 
+This repository contains all my Work in my first semester. 
